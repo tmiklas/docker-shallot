@@ -4,7 +4,7 @@ Shallot packaged as Docker container
 
 ### About
 
-This docker container is built with precompiled [Shallot](https://github.com/katmagic/Shallot/), to get a small container at the end.
+This docker container is based on `debian:latest` and built with precompiled [Shallot](https://github.com/katmagic/Shallot/), to get a small container at the end.
 
 ### Usage
 
