@@ -10,7 +10,7 @@ This docker container is based on `debian:latest` and built with precompiled [Sh
 
 The container exposes `/shallot` which is a working directory of the application. If you choose to save output to file, this is where it will be created. 
 
-`$ docker run -d --rm -v ~/shallot-output:/shallot tmiklas/docker-shallot -f test-key.txt ^test`
+`$ docker run -d -v ~/shallot-output:/shallot tmiklas/docker-shallot -f test-key.txt ^test`
 
 ### License
 
