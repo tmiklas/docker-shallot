@@ -2,6 +2,8 @@
 
 Shallot packaged as Docker container
 
+![image](https://badge.imagelayers.io/tmiklas/docker-shallot.svg)
+
 ### About
 
 This docker container is based on `debian:latest` and built with precompiled [Shallot](https://github.com/katmagic/Shallot/), to get a small container at the end.
